@@ -1,6 +1,5 @@
 # OSD Group Proj
 
-----------
 ## Investment analysis system
 
 * Coursework concerns management + analysis of investments.
