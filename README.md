@@ -1,6 +1,6 @@
 # Investment analysis system
 
-* Coursework concerns management + analysis of investments.
+* Concerns management + analysis of investments.
 
 * An investor may purchase bonds. A bond has a term (number of years to expiry), coupon (percentage of investment, paid to investor at regular intervals), frequency of payments. Bonds have names, eg. “UK government bond” and purchase date.
 * Assume frequency = 1 per year, investment = 100.
